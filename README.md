@@ -1,16 +1,19 @@
-## Hi there 👋
+# 我是坚持梦想的象
+也是daxiangz3
 
-<!--
-**daxiangz3/daxiangz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 联系方式
+- [X](https://x.com/daxiangz3/)
+- [Bilibili](https://space.bilibili.com/1848005406/)
+- 邮箱: daxiangz3@qq.com
+- [Github](https://github.com/daxiangz3/)
 
-Here are some ideas to get you started:
+### 学过的编程语言
+*啥也不会*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 喜欢的游戏
+- [Minecraft](https://zh-cn.namemc.com/profile/daxiangz3.1)
+- Ready or Not
+- Titanfall® 2
+
+
+*小菜鸡一枚*
